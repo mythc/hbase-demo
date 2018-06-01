@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/play-hbase.iml" filepath="$PROJECT_DIR$/.idea/play-hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playhbase_v1/playhbase_v1.iml" filepath="$PROJECT_DIR$/playhbase_v1/playhbase_v1.iml" />
+    </modules>
+  </component>
+</project>

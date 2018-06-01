@@ -18,7 +18,6 @@ import java.util.*;
  * Hello world!
  */
 public class HBaseConnector {
-
     static Admin admin = null;
     static Connection conn = null;
     static Configuration conf = null;
@@ -61,6 +60,7 @@ public class HBaseConnector {
             }
         }
     }
+
 
     public double scanFirstData(String devId, String startTime, String stopTime) throws IOException {
 
