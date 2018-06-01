@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c457eef8-eee2-416b-a6c7-e76e36efbd1e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/playhbase_v1/playhbase_v1.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/playhbase_v1/src/main/java/com/playhbase/connector/HBaseConnector.java" afterPath="$PROJECT_DIR$/playhbase_v1/src/main/java/com/playhbase/connector/HBaseConnector.java" />
-    </list>
+    <list default="true" id="c457eef8-eee2-416b-a6c7-e76e36efbd1e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/playhbase_v1/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -521,12 +518,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527645957402</updated>
-      <workItem from="1527645958719" duration="26225000" />
+      <workItem from="1527645958719" duration="26821000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26225000" />
+    <option name="totallyTimeSpent" value="26821000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="28" width="1922" height="1019" extended-state="7" />
